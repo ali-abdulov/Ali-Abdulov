@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Ali 👋
 
 <!--
 **ali-abdulov/Ali-Abdulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
